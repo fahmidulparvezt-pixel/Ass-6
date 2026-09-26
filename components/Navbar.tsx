@@ -10,14 +10,14 @@ export default function Navbar() {
   const { plan, saved } = usePlan();
 
   const links = [
-    { href: "/", label: "Workout" },
+    { href: "/" , label: "Workout" },
     { href: "/my-plan", label: "My Plan" },
   ];
 
   return (
     <header className="sticky top-0 z-50 border-b border-edge bg-bg/90 backdrop-blur">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
-        <Link href="/" className="flex items-center gap-2">
+        <Link href="/" className="flex items-center gap-2" aria-label="FitLog home">
           <Image src="/logo.png" alt="FitLog" width={28} height={28} />
           <span className="font-display text-lg font-semibold tracking-wide text-ink">
             FITLOG
