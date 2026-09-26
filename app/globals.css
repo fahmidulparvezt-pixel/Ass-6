@@ -30,3 +30,4 @@ body {
   outline: 2px solid #ccff00;
   outline-offset: 2px;
 }
+ #library { scroll-margin-top: 5rem; }
