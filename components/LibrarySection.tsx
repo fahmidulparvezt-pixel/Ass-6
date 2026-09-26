@@ -86,6 +86,8 @@ export default function LibrarySection() {
           Couldn&apos;t load the library right now. Please refresh.
         </p>
       )}
+      {!loading && !error && visibleWorkouts.length === 0 &&
+       ( <p className="py-16 text-center text-sm text-muted">No workouts match your search.</p> )}
 
       {!loading && !error && (
         <div className="mt-8 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
