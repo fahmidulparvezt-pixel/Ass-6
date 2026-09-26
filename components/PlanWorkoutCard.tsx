@@ -63,8 +63,7 @@ export default function PlanWorkoutCard({
         )}
         <button
           onClick={onRemove}
-          title="Remove" 
-          aria-label="Remove workout" 
+          title="Remove" aria-label="Remove workout" 
           className="flex h-8 w-8 items-center justify-center rounded-full border border-edge text-muted hover:border-red-500 hover:text-red-500"
         >
           <X size={16} />

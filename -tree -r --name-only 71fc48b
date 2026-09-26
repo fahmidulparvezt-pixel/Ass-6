@@ -1,0 +1,39 @@
+[33mcommit 71fc48b17603dfb0e6d6b884c9d3abfebe36f137[m
+Author: fahmidulparvez-pixel <fahmidulparvezt@gmail.com>
+Date:   Sat Sep 26 20:25:46 2026 +0600
+
+    project setup with next.js and tailwind
+
+ .eslintrc.json                 |    3 [32m+[m
+ .gitignore                     |   28 [32m+[m
+ README.md                      |   71 [32m+[m
+ app/globals.css                |   32 [32m+[m
+ app/layout.tsx                 |   41 [32m+[m
+ app/my-plan/page.tsx           |  132 [32m+[m
+ app/not-found.tsx              |   21 [32m+[m
+ app/page.tsx                   |   11 [32m+[m
+ app/workouts/[id]/loading.tsx  |   10 [32m+[m
+ app/workouts/[id]/page.tsx     |   94 [32m+[m
+ components/Footer.tsx          |   19 [32m+[m
+ components/Hero.tsx            |   41 [32m+[m
+ components/LibrarySection.tsx  |   99 [32m+[m
+ components/Navbar.tsx          |   80 [32m+[m
+ components/PlanWorkoutCard.tsx |   74 [32m+[m
+ components/Providers.tsx       |   12 [32m+[m
+ components/SortDropdown.tsx    |   41 [32m+[m
+ components/StatRow.tsx         |   25 [32m+[m
+ components/WorkoutActions.tsx  |   51 [32m+[m
+ components/WorkoutCard.tsx     |   46 [32m+[m
+ context/PlanContext.tsx        |  111 [32m+[m
+ context/ToastContext.tsx       |   52 [32m+[m
+ lib/api.ts                     |   17 [32m+[m
+ lib/types.ts                   |   21 [32m+[m
+ next.config.mjs                |   13 [32m+[m
+ package-lock.json              | 6331 [32m++++++++++++++++++++++++++++++++++++++++[m
+ package.json                   |   28 [32m+[m
+ postcss.config.mjs             |    9 [32m+[m
+ public/banner.png              |  Bin [31m0[m -> [32m107255[m bytes
+ public/logo.png                |  Bin [31m0[m -> [32m551[m bytes
+ tailwind.config.ts             |   32 [32m+[m
+ tsconfig.json                  |   23 [32m+[m
+ 32 files changed, 7568 insertions(+)
