@@ -7,8 +7,8 @@ plan or save moves for later — all tracked live in the navbar.
 
 ## 🔗 Links
 
-- **Live site:** _add your deployed link here_
-- **Repository:** https://github.com/ProgrammingHero1/B14-A6-Fit-Log
+- **Live site: https://ass-6-ecru.vercel.app/
+- **Repository: https://github.com/fahmidulparvezt-pixel/Ass-6
 
 ## 🛠️ Technologies Used
 
