@@ -71,20 +71,6 @@ A responsive workout tracking application built with Next.js. Explore exercises,
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-### Production Build
-
-```bash
-npm run build
-npm run start
-```
-## 📦 Build & Deploy
-
-The production build can be tested locally using:
-
-```bash
-npm run build
-npm run start
-```
 
 ### Deployment
 
