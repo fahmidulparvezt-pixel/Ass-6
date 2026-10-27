@@ -9,14 +9,14 @@ A responsive workout tracking application built with Next.js. Explore exercises,
 - **Source Code:** [GitHub Repository](https://github.com/fahmidulparvezt-pixel/Ass-6)
 
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- **Next.js 14** (App Router) — routing, server components, data fetching
-- **React 18** & **TypeScript** — UI and type safety
-- **Tailwind CSS** — styling and responsive layout
-- **lucide-react** — icon set
-- **Browser `localStorage`** — persists Today's Plan and Saved lists across reloads
-- **FitLog Workout API** (`https://api.abcz.workers.dev/api/fitlog`) — workout data
+- **Framework:** Next.js 14 (App Router)
+- **Frontend:** React 18, TypeScript
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React
+- **Data Persistence:** Browser Local Storage
+- **API:** FitLog Workout API
 
 ## ✨ Key Features
 
