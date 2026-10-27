@@ -79,13 +79,20 @@ npm run start
 ```
 ## 📦 Build & Deploy
 
+The production build can be tested locally using:
+
 ```bash
 npm run build
 npm run start
 ```
 
-Deploy the project to Vercel, Netlify, or Cloudflare Pages by importing this
-repository — no extra environment variables are required.
+### Deployment
+
+The application is deployed on Vercel.
+
+- **Live Demo:** [FitLog](https://ass-6-ecru.vercel.app/)
+
+To deploy your own copy, import the repository into Vercel and follow the deployment instructions.
 
 ## 📁 Project Structure
 
