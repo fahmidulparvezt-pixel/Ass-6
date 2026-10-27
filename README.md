@@ -89,13 +89,18 @@ repository — no extra environment variables are required.
 
 ## 📁 Project Structure
 
+```text
+Ass-6/
+├── app/          # Pages and routes
+├── components/   # Reusable UI components
+├── context/      # Shared application state
+├── lib/          # Utility functions and API helpers
+├── public/       # Static assets
+├── package.json  # Project scripts and dependencies
+└── README.md     # Project documentation
 ```
-app/
-  layout.tsx            Root layout: fonts, navbar, footer, providers
-  page.tsx               Home page (hero + library)
-  not-found.tsx           404 page
-  workouts/[id]/page.tsx  Workout detail page
-  my-plan/page.tsx        My Plan page
+
+
 components/               UI building blocks (Navbar, cards, sort dropdown...)
 context/                  Plan/Saved state + toast notifications
 lib/                      API client and shared types
