@@ -100,8 +100,3 @@ Ass-6/
 └── README.md     # Project documentation
 ```
 
-
-components/               UI building blocks (Navbar, cards, sort dropdown...)
-context/                  Plan/Saved state + toast notifications
-lib/                      API client and shared types
-```
