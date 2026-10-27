@@ -1,14 +1,13 @@
+
 # 💪 FitLog — Workout Library
 
-FitLog is a dark, no-nonsense gym companion built for people who want to pick a lift,
-lock it into today's plan, and watch the week's work add up. Browse a library of
-twelve lifts, open a detail page for full instructions and specs, then build a daily
-plan or save moves for later — all tracked live in the navbar.
+A responsive workout tracking application built with Next.js. Explore exercises, view detailed workout instructions, create your daily workout plan, and save your favorite exercises for later.
 
-## 🔗 Links
+## 🔗 Live Demo & Repository
 
-- **Live site: https://ass-6-ecru.vercel.app/
-- **Repository: https://github.com/fahmidulparvezt-pixel/Ass-6
+- **Live Demo:** [FitLog](https://ass-6-ecru.vercel.app/)
+- **Source Code:** [GitHub Repository](https://github.com/fahmidulparvezt-pixel/Ass-6)
+
 
 ## 🛠️ Technologies Used
 
